@@ -188,6 +188,6 @@ This project wouldn't be possible without these amazing open-source projects:
 <div align="center">
   <p>Made with ❤️ by kishore</p>
   <p>
-    <a href="https://stashr.in">🌐 Live Demo</a> • 
+    <a href="https://stashr-alpha.vercel.app/">🌐 Live Demo</a> • 
   </p>
 </div>
