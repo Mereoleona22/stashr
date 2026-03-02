@@ -1,22 +1,14 @@
 <div align="center">
-  <img src="https://stashr.in/favicon.svg" alt="Stashr Logo" width="80" height="80">
+   Logo" width="80" height="80">
   <h1>Stashr</h1>
   <p><strong>Turn tab chaos into organized, collaborative Boards</strong></p>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://stashr.in/og.png" alt="Stashr Preview" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-</div>
-
 <br>
 
 **Stashr** gives your open tabs a home. Stash your open tabs, bookmarks, and scattered ideas into one place - so you can sort, structure, and collaborate on them. Organize them into visual Boards you can share, shape, and evolve into real projects.
-
-## 🚀 Live Demo
-
-**[Try Stashr Now →](https://stashr.in)**
 
 ### Core Functionality
 
@@ -174,10 +166,6 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 - Ensure all linting checks pass
 - Write clear commit messages
 
-### Issues
-
-If you find a bug or have a feature request, please [open an issue](https://github.com/Mereoleona22/stashr/issues) and we'll get back to you as soon as possible.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -201,6 +189,5 @@ This project wouldn't be possible without these amazing open-source projects:
   <p>Made with ❤️ by kishore</p>
   <p>
     <a href="https://stashr.in">🌐 Live Demo</a> • 
-    <a href="https://twitter.com/lokendratwt">🐦 Twitter</a>
   </p>
 </div>
