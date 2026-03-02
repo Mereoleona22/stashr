@@ -56,7 +56,7 @@ async function apiRequest<T>(
 
 // Bookmark API functions
 export const bookmarkApi = {
-  // Create a new bookmark
+  
   async create(
     request: CreateBookmarkRequest,
   ): Promise<ApiResponse<{ bookmark: Bookmark }>> {
